@@ -1,0 +1,1 @@
+Bug founded when ecuations like xysin(x)cos(y) entered. The problem should be asociated with implicit multiplications...:(
